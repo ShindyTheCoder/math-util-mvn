@@ -24,7 +24,7 @@ public class MathUtilityAdvanceTest {
                               {1,1}, 
                               {2,2}, 
                               {4,24}, 
-                              {5,1200}
+                              {5,120}
                               };       // khai báo mảng
         
         return testData;
